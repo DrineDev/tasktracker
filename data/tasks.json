@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "description": "Coding",
+        "status": "in progress"
+    },
+    {
+        "id": 2,
+        "description": "Buying groceries",
+        "status": "not done"
+    },
+    {
+        "id": 3,
+        "description": "Damayo",
+        "status": "not done"
+    }
+]
